@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Projeto02",
+			"path": "../../Downloads/Projeto02/Projeto02"
+		},
+		{
+			"name": "css",
+			"path": "css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projeto02"
+	}
+}
